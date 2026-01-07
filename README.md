@@ -14,7 +14,6 @@ Strong foundation in component-driven architecture, API integration, responsive 
 - 🎨 Experienced in converting **Figma designs** into scalable UI
 - 🚀 Focused on performance, responsiveness, and clean code
 
----
 
 ## 🛠️ Tech Stack
 <p align="left">
