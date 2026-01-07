@@ -6,7 +6,6 @@ Frontend Developer with hands-on internship experience building scalable, perfor
 Strong foundation in component-driven architecture, API integration, responsive design, and performance optimization.
 </p>
 
----
 
 ## 👨‍💻 About Me
 - 🎓 BTech in Information Technology (Graduated 2025)
@@ -28,7 +27,6 @@ Strong foundation in component-driven architecture, API integration, responsive 
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40"/>
 </p>
 
----
 
 ## 💼 Work Experience
 
@@ -40,7 +38,6 @@ Strong foundation in component-driven architecture, API integration, responsive 
 - Developed fully responsive pages using Tailwind CSS.
 - Translated Figma designs into production-ready components using Next.js and TypeScript.
 - Tested and optimized pages using Lighthouse.
----
 
 ## 📌 Featured Projects
 
@@ -58,11 +55,9 @@ Strong foundation in component-driven architecture, API integration, responsive 
 
 ➡️ Check pinned repositories for code.
 
----
 
 ## 📫 Contact & Links
 - 📧 Email: **angad04755@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/angad-singh-a07696228/
 
----
 
