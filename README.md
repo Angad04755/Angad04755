@@ -5,14 +5,14 @@ Frontend Developer with hands-on internship experience building scalable, perfor
 <strong>Next.js, TypeScript, Redux, and Tailwind CSS</strong>.  
 Strong foundation in component-driven architecture, API integration, responsive design, and performance optimization.
 </p>
-
+---
 ## 👨‍💻 About Me
 - 🎓 BTech in Information Technology (Graduated 2025)
 - 💼 Frontend Developer Intern with production experience
 - 🧩 Specialized in **Next.js & TypeScript**
 - 🎨 Experienced in converting **Figma designs** into scalable UI
 - 🚀 Focused on performance, responsiveness, and clean code
-
+---
 ## 🛠️ Tech Stack
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
@@ -23,7 +23,7 @@ Strong foundation in component-driven architecture, API integration, responsive 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40"/>
 </p>
-
+---
 ## 💼 Work Experience
 
 ### Frontend Developer Intern — Techinovativ (**Mar 2025 – Jul 2025**)
@@ -34,7 +34,7 @@ Strong foundation in component-driven architecture, API integration, responsive 
 - Developed fully responsive pages using Tailwind CSS.
 - Translated Figma designs into production-ready components using Next.js and TypeScript.
 - Tested and optimized pages using Lighthouse.
-
+---
 ## 📌 Featured Projects
 
 ### 🛒 E-Commerce Web App
@@ -50,7 +50,7 @@ Strong foundation in component-driven architecture, API integration, responsive 
 - Built reusable UI components with search, filtering, and charts.
 
 ➡️ Check pinned repositories for code.
-
+---
 ## 📫 Contact & Links
 - 📧 Email: **angad04755@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/angad-singh-a07696228/
