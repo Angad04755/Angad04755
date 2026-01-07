@@ -6,14 +6,12 @@ Frontend Developer with hands-on internship experience building scalable, perfor
 Strong foundation in component-driven architecture, API integration, responsive design, and performance optimization.
 </p>
 
-
 ## 👨‍💻 About Me
 - 🎓 BTech in Information Technology (Graduated 2025)
 - 💼 Frontend Developer Intern with production experience
 - 🧩 Specialized in **Next.js & TypeScript**
 - 🎨 Experienced in converting **Figma designs** into scalable UI
 - 🚀 Focused on performance, responsiveness, and clean code
-
 
 ## 🛠️ Tech Stack
 <p align="left">
@@ -25,7 +23,6 @@ Strong foundation in component-driven architecture, API integration, responsive 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40"/>
 </p>
-
 
 ## 💼 Work Experience
 
@@ -53,7 +50,6 @@ Strong foundation in component-driven architecture, API integration, responsive 
 - Built reusable UI components with search, filtering, and charts.
 
 ➡️ Check pinned repositories for code.
-
 
 ## 📫 Contact & Links
 - 📧 Email: **angad04755@gmail.com**
