@@ -6,6 +6,8 @@ Frontend Developer with hands-on internship experience building scalable, perfor
 Strong foundation in component-driven architecture, API integration, responsive design, and performance optimization.
 </p>
 
+---
+
 ## 👨‍💻 About Me
 - 🎓 BTech in Information Technology (Graduated 2025)
 - 💼 Frontend Developer Intern with production experience
