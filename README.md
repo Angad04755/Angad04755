@@ -58,6 +58,7 @@ Strong foundation in component-driven architecture, API integration, responsive 
 - Developed a real-time crypto tracking application with API-driven data.
 - Implemented efficient data fetching and state handling.
 - Built reusable UI components with search, filtering, and charts.
+- Implemented secure authentication and authorization using Clerk, enabling user sign-in.
 
 ➡️ Check pinned repositories for code.
 
