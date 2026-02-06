@@ -1,9 +1,10 @@
 <h3 align="center">Frontend Developer | Next.js | React.js | TypeScript</h3>
 
 <p align="center">
-Frontend Developer with hands-on internship experience building scalable, performance-focused web applications using 
-<strong>Next.js, TypeScript, Redux, and Tailwind CSS</strong>.  
-Strong foundation in component-driven architecture, API integration, responsive design, and performance optimization.
+Frontend Developer with hands-on experience building, testing, and deploying production-ready web
+applications using Next.js, React.js, TypeScript, Tailwind CSS. Skilled in REST API integration,
+responsive UI design, cross-browser compatibility, debugging, performance optimization, and component
+architecture. Proficient in clean, scalable, maintainable code, and Git version control.
 </p>
 
 ---
