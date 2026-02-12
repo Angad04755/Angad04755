@@ -1,8 +1,8 @@
 <h3 align="center">Frontend Developer | Next.js | React.js | TypeScript | Tailwind CSS</h3>
 
 <p align="center">
-  Frontend Developer with production experience designing and optimizing scalable web applications us-
-ing Next.js, React.js, and TypeScript. Strong focus on performance-driven development, SEO-friendly
+Frontend Developer with production experience designing and optimizing scalable web applications 
+using Next.js, React.js, and TypeScript. Strong focus on performance-driven development, SEO-friendly
 architecture, and structured state management. Delivered measurable improvements in Core Web Vitals,
 reduced API redundancy, and built reusable component systems for maintainable and extensible frontend
 platforms.
