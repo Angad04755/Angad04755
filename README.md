@@ -1,4 +1,4 @@
-<h3 align="center">Frontend Developer | Next.js | React.js | TypeScript | Tailwind CSS</h3>
+<h3 align="center">Frontend Developer | Next.js | React.js | TypeScript</h3>
 
 <p align="center">
 Frontend Developer with production experience designing and optimizing scalable web applications
