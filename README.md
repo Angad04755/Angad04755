@@ -1,11 +1,11 @@
 <h3 align="center">Frontend Developer | Next.js | React.js | TypeScript</h3>
 
 <p align="center">
-Frontend Developer with production experience designing and optimizing scalable web applications
-using Next.js, React.js, and TypeScript. Strong focus on performance-driven development, SEO-friendly
-architecture, and structured state management. Delivered measurable improvements in Core Web Vitals,
-reduced API redundancy, and built reusable component systems for maintainable and extensible frontend
-platforms.
+Frontend Developer with hands-on production experience building scalable and high-performance web applications
+using Next.js, React.js, and TypeScript. Specialized in performance optimization, SEO-oriented architecture, and
+predictable state management. Achieved significant improvements in Core Web Vitals, minimized redundant API
+requests, and developed reusable component systems to enhance scalability, maintainability, and development effi-
+ciency.
 </p>
 
 ---
