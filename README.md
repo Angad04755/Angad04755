@@ -39,30 +39,32 @@ requests, and developed reusable component systems to enhance scalability, maint
 ## 💼 Work Experience
 
 ### Frontend Developer Intern — Techinovativ (**Mar 2025 – Jul 2025**)
+- Developed and delivered production-grade frontend features using Next.js and TypeScript in Agile development environment.
+- Integrated multiple REST API endpoints with structured error handling and reliable state management.
+- Engineered reusable and responsive UI components from Figma designs ensuring cross-browser consistency.
+- Participated in sprint planning, code reviews, and production issue resolution to maintain application stability.
 ### Frontend Developer Intern — NHWM (**Jul 2025 – Dec 2025**)
-
-- Owned frontend feature development across multiple modules in a production codebase.
-- Fixed UI bugs related to layout, responsiveness, and state handling.
-- Developed fully responsive pages using Tailwind CSS.
-- Translated Figma designs into production-ready components using Next.js and TypeScript.
-- Tested and optimized pages using Lighthouse.
+- Spearheaded development of 10+ scalable frontend features using modular and maintainable architecture.
+- Improved Lighthouse performance score from 70 to 94 through frontend performance optimization techniques.
+- Integrated 12+ REST API services with centralized error handling and efficient loading state management.
+- Enhanced UI reliability and maintainability by implementing structured and predictable state management patterns.
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🛒 E-Commerce Web App
-- Built a responsive e-commerce application using **Next.js & Tailwind CSS**.
-- Implemented **Redux-based cart state management**.
-- Integrated secure payment gateway and optimized checkout flow.
-- Integrated secure user authentication and authorization and streamlined login/signup workflows.
-- Ensured smooth performance across devices.
-
+- Designed and developed scalable e-commerce platform supporting 90+ products with reusable component architecture.
+- Implemented normalized Redux state management with persistent session handling.
+- Optimized data flow and reduced redundant API calls by 40%.
+- Increased Lighthouse performance score from 72 to 91 through performance optimization.
+- Built reusable frontend components to improve scalability and long-term maintainability.
 ### 📈 Crypto Price Tracker
-- Developed a real-time crypto tracking application with API-driven data.
-- Implemented efficient data fetching and state handling.
-- Built reusable UI components with search, filtering, and charts.
-- Implemented secure authentication and authorization using Clerk, enabling user sign-in.
+- Developed scalable cryptocurrency tracking dashboard rendering 100+ assets with optimized client-side performance.
+- Implemented efficient data fetching and caching strategy to handle API rate limits reliably.
+- Built infinite scrolling system to improve performance and user experience for large datasets.
+- Created in-memory search suggestion feature to eliminate unnecessary network requests.
+- Designed reusable filtering and chart components for scalable and dynamic data visualization.
 
 ➡️ Check pinned repositories for code.
 
