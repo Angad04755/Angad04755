@@ -1,4 +1,4 @@
-<h3 align="center">Frontend Developer | Next.js | React.js | TypeScript</h3>
+<h3 align="center">Frontend Developer | Next.js | React.js | TypeScript | JavaScript (ES6+)</h3>
 
 <p align="center">
 Frontend Developer with hands-on production experience building scalable and high-performance web applications
@@ -24,6 +24,7 @@ requests, and developed reusable component systems to enhance scalability, maint
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript ES6+" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
