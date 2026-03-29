@@ -57,18 +57,19 @@ requests, and developed reusable component systems to enhance scalability, maint
 
 ## 📌 Featured Projects
 
-### 🛒 E-Commerce Web App
-- Designed and developed scalable e-commerce platform supporting 90+ products with reusable component architecture.
-- Implemented normalized Redux state management with persistent session handling.
-- Optimized data flow and reduced redundant API calls by 40%.
-- Increased Lighthouse performance score from 72 to 91 through performance optimization.
-- Built reusable frontend components to improve scalability and long-term maintainability.
 ### 📈 Crypto Price Tracker
 - Developed scalable cryptocurrency tracking dashboard rendering 100+ assets with optimized client-side performance.
 - Implemented efficient data fetching and caching strategy to handle API rate limits reliably.
 - Built infinite scrolling system to improve performance and user experience for large datasets.
 - Created in-memory search suggestion feature to eliminate unnecessary network requests.
 - Designed reusable filtering and chart components for scalable and dynamic data visualization.
+
+ ### 🛒 E-Commerce Web App
+- Designed and developed scalable e-commerce platform supporting 90+ products with reusable component architecture.
+- Implemented normalized Redux state management with persistent session handling.
+- Optimized data flow and reduced redundant API calls by 40%.
+- Increased Lighthouse performance score from 72 to 91 through performance optimization.
+- Built reusable frontend components to improve scalability and long-term maintainability.
 
 ➡️ Check pinned repositories for code.
 
