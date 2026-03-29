@@ -57,7 +57,7 @@ requests, and developed reusable component systems to enhance scalability, maint
 
 ## 📌 Featured Projects
 
-### 📈 Crypto Price Tracker
+### 📈 Crypto Price Tracker Web App
 - Developed scalable cryptocurrency tracking dashboard rendering 100+ assets with optimized client-side performance.
 - Implemented efficient data fetching and caching strategy to handle API rate limits reliably.
 - Built infinite scrolling system to improve performance and user experience for large datasets.
