@@ -30,6 +30,7 @@ requests, and developed reusable component systems to enhance scalability, maint
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/websocket/white" width="40"/>
 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40"/>
@@ -60,7 +61,7 @@ requests, and developed reusable component systems to enhance scalability, maint
 ### 📈 Crypto Price Tracker Web App
 - Developed scalable cryptocurrency tracking dashboard rendering 100+ assets with optimized client-side performance.
 - Implemented efficient data fetching and caching strategy to handle API rate limits reliably.
-- Built infinite scrolling system to improve performance and user experience for large datasets.
+- Integrated WebSocket-based streaming architecture for real-time cryptocurrency price updates.
 - Created in-memory search suggestion feature to eliminate unnecessary network requests.
 - Designed reusable filtering and chart components for scalable and dynamic data visualization.
 
