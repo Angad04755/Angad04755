@@ -12,7 +12,6 @@ requests, and developed reusable component systems to enhance scalability, maint
 ## 👨‍💻 About Me
 
 - 🎓 BTech in Information Technology (Graduated 2025)
-- 💼 Frontend Developer Intern with production experience
 - 🧩 Specialized in **Next.js, React.js & TypeScript**
 - 🎨 Experienced in converting **Figma designs** into scalable UI
 - 🚀 Focused on performance, responsiveness, and clean code
@@ -30,8 +29,7 @@ requests, and developed reusable component systems to enhance scalability, maint
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/websocket/white" width="40"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40"/>
 </p>
