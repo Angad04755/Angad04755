@@ -1,5 +1,3 @@
-<!-- <h3 align="center">Frontend Developer | Next.js | React.js | TypeScript | JavaScript (ES6+)</h3> -->
-
 <p align="center">
 Frontend Developer with hands-on production experience building scalable and high-performance web applications
 using Next.js, React.js, and TypeScript. Specialized in performance optimization, SEO-oriented architecture, and
