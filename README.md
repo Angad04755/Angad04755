@@ -68,12 +68,3 @@ requests, and developed reusable component systems to enhance scalability, maint
 - Built reusable frontend components to improve scalability and long-term maintainability.
 
 ➡️ Check pinned repositories for code.
-
----
-
-## 📫 Contact & Links
-
-- 📧 Email: **angad04755@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/angad-singh-a07696228/
-
-
