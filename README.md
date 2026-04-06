@@ -66,5 +66,3 @@ requests, and developed reusable component systems to enhance scalability, maint
 - Optimized data flow and reduced redundant API calls by 40%.
 - Increased Lighthouse performance score from 72 to 91 through performance optimization.
 - Built reusable frontend components to improve scalability and long-term maintainability.
-
-➡️ Check pinned repositories for code.
