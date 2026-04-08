@@ -33,24 +33,6 @@ requests, and developed reusable component systems to enhance scalability, maint
 
 ---
 
-## 💼 Work Experience
-
-### Frontend Developer — NHWM (**Jul 2025 – Dec 2025**) 
-(Internship)
-- Spearheaded development of 10+ scalable frontend features using modular and maintainable architecture.
-- Improved Lighthouse performance score from 70 to 94 through frontend performance optimization techniques.
-- Integrated 12+ REST API services with centralized error handling and efficient loading state management.
-- Enhanced UI reliability and maintainability by implementing structured and predictable state management patterns.
-
-### Frontend Developer — Techinovativ (**Mar 2025 – Jul 2025**)
-(Internship)
-- Developed and delivered production-grade frontend features using Next.js and TypeScript in Agile development environment.
-- Integrated multiple REST API endpoints with structured error handling and reliable state management.
-- Engineered reusable and responsive UI components from Figma designs ensuring cross-browser consistency.
-- Participated in sprint planning, code reviews, and production issue resolution to maintain application stability.
-
----
-
 ## 📌 Featured Projects
 
 ### 📈 Crypto Price Tracker Web App
