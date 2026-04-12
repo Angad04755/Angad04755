@@ -1,8 +1,8 @@
 <p align="center">
-Frontend Developer with hands-on production experience building scalable and high-performance web applications
-using Next.js, React.js, and TypeScript. Specialized in performance optimization, SEO-oriented architecture, and
-predictable state management. Achieved significant improvements in Core Web Vitals, minimized redundant API
-requests, and developed reusable component systems to enhance scalability, maintainability, and development efficiency.
+Frontend Developer with hands-on experience building web applications using Next.js, React.js, and TypeScript.
+Specialized in performance optimization, SEO-oriented architecture, and predictable state management. Achieved
+significant improvements in Core Web Vitals, minimized redundant API requests, and developed reusable component
+systems to enhance maintainability, and development efficiency.
 </p>
 
 ---
