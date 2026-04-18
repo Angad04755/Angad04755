@@ -11,7 +11,6 @@ systems to enhance maintainability, and development efficiency.
 
 - 🎓 BTech in Information Technology (Graduated 2025)
 - 🧩 Specialized in **Next.js, React.js & TypeScript**
-- 🎨 Experienced in converting **Figma designs** into scalable UI
 - 🚀 Focused on performance, responsiveness, and clean code
 
 ---
