@@ -1,8 +1,8 @@
 <p align="center">
-Frontend Developer with hands-on experience building web applications using Next.js, React.js, and TypeScript.
-Specialized in performance optimization, SEO-oriented architecture, and predictable state management. Achieved
-significant improvements in Core Web Vitals, minimized redundant API requests, and developed reusable component
-systems to enhance maintainability, and development efficiency.
+Frontend Developer with hands-on experience building web applications using React.js, and TypeScript. Specialized
+in performance optimization, SEO-oriented architecture, and predictable state management. Achieved significant
+improvements in Core Web Vitals, minimized redundant API requests, and developed reusable component systems
+to enhance maintainability, and development efficiency.
 </p>
 
 ---
@@ -10,7 +10,7 @@ systems to enhance maintainability, and development efficiency.
 ## 👨‍💻 About Me
 
 - 🎓 BTech in Information Technology (Graduated 2025)
-- 🧩 Specialized in **Next.js, React.js & TypeScript**
+- 🧩 Specialized in **React.js & TypeScript**
 - 🚀 Focused on performance, responsiveness, and clean code
 
 ---
@@ -20,8 +20,6 @@ systems to enhance maintainability, and development efficiency.
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" title="Redux" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS" />&nbsp;
