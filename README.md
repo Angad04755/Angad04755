@@ -1,7 +1,5 @@
 <p align="center">
-Frontend Developer with hands-on experience building web applications using React.js, and TypeScript. Specialized
-in performance optimization, SEO-oriented architecture, and predictable state management. Developed reusable
-component systems to enhance maintainability, and development efficiency.
+Frontend Developer with experience building web applications using React.js, TypeScript, and modern frontend tools. Worked on developing reusable components, integrating APIs, and improving application performance through efficient rendering and code optimization. Comfortable collaborating in team environments and focused on building clean, maintainable, and user-friendly applications while continuously learning new technologies.
 </p>
 
 ---
