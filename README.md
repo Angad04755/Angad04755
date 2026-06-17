@@ -1,5 +1,7 @@
 <p align="center">
-Frontend Developer with experience building web applications using React.js, TypeScript, and modern frontend tools. Worked on developing reusable components, integrating APIs, and improving application performance through efficient rendering and code optimization. Comfortable collaborating in team environments and focused on building clean, maintainable, and user-friendly applications while continuously learning new technologies.
+Frontend Developer with experience building responsive web applications using React.js and TypeScript. Skilled in
+developing modular component architectures, optimizing rendering performance, and integrating REST APIs and
+WebSocket services. Experienced in Agile teams, delivering production-grade features across multiple organizations.
 </p>
 
 ---
@@ -17,6 +19,7 @@ Frontend Developer with experience building web applications using React.js, Typ
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" title="Redux" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS" />&nbsp;
